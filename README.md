@@ -1,2 +1,2 @@
-# final-project-mariamtsitskishvili2
+# final-project-mariamtsitskishvili
 final project
